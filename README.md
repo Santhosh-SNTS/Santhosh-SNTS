@@ -5,10 +5,10 @@
 As a Cloud Engineer, I possess good knowledge of AWS, Azure, and OCI cloud platforms, as well as expertise in popular DevOps technologies such as Docker, Kubernetes, CI/CD pipelines, Terraform, and Jenkins. My skills enable me to design, deploy, and manage highly efficient and scalable cloud infrastructure solutions.
 
    <p align="left">      
-      <a href="https://github.com/AbdulBhashith?tab=followers">
-         <img alt="followers" title="Follow me on Github" src="https://custom-icon-badges.demolab.com/github/followers/AbdulBhashith?color=236ad3&labelColor=1155ba&style=for-the-badge&logo=person-add&label=Follow&logoColor=white"/></a>
-      <a href="https://github.com/AbdulBhashith?tab=repositories&sort=stargazers">
-         <img alt="total stars" title="Total stars on GitHub" src="https://custom-icon-badges.demolab.com/github/stars/AbdulBhashith?color=55960c&style=for-the-badge&labelColor=488207&logo=star"/></a>
+      <a href="https://github.com/Santhosh-SNTS?tab=followers">
+         <img alt="followers" title="Follow me on Github" src="https://custom-icon-badges.demolab.com/github/followers/Santhosh-SNTS?color=236ad3&labelColor=1155ba&style=for-the-badge&logo=person-add&label=Follow&logoColor=white"/></a>
+      <a href="https://github.com/Santhosh-SNTS?tab=repositories&sort=stargazers">
+         <img alt="total stars" title="Total stars on GitHub" src="https://custom-icon-badges.demolab.com/github/stars/Santhosh-SNTS?color=55960c&style=for-the-badge&labelColor=488207&logo=star"/></a>
    </p>
 
 ---
@@ -31,7 +31,7 @@ As a Cloud Engineer, I possess good knowledge of AWS, Azure, and OCI cloud platf
 
 ### 📊 Stats
 
-![Santhosh's GitHub stats](https://github-readme-stats.vercel.app/api?username=AbdulBhashith&show_icons=true&theme=blue-green)
+![Santhosh's GitHub stats](https://github-readme-stats.vercel.app/api?username=Santhosh-SNTS&show_icons=true&theme=blue-green)
 
 
 #
